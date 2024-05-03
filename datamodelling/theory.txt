@@ -1,0 +1,5 @@
+Data kaha store karna h kaise krna h sbke pahle hume ye sikhna jaruri hota hai ki jo data stoe horha wo hai kiska usme uska structure kya hoga requirements kya hoga
+company me iske lia alag se data modeller hote hai kai sare software v hai for data modeling 
+so express me hum mongoose ka use krte hai for modelling 
+npm i mongoose
+const mongoose = require('mpngoose)
