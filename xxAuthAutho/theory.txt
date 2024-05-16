@@ -1,0 +1,15 @@
+Authincation Authorization
+user ko profile dene se phle ye check krna hota hai user hai kon ---Authincation
+authorize matlb authorize krna kisi particular task ke lia
+server har baar bhul jata hai ki aap kon h so to harbaar wo har kaam ke lia aapse puchega aap kon hota
+then thats why we use cookies and session
+
+sabse phle hame kuch chize sikhni h alag alag 
+cookies setiing 
+bcypt use for pass encrypt
+jwt kaise use krte hai
+
+server se browser pe data store krna cookies
+browser se server pe data story krna session
+
+
